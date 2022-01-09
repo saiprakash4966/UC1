@@ -1,0 +1,1 @@
+$echo goodmorning |awk'{Print $0}'

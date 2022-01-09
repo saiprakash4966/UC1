@@ -1,0 +1,26 @@
+Git Bash
+
+ls -command gives folders and files
+
+mkdir (make directory) - for create folder
+cd -directly desktop command
+history command
+pwd-live location 
+
+nested folder-mkdir -p parent/child1/sub
+.../  -One step backward
+rm -rf parent/    (rf-force delete)
+touch -file creation
+cat-for viewing purpose
+ll    -detailed data(insted of using ls-l wecan use ll)
+ls-a   -
+ls ~ -home 
+cp -r addition.txt 
+~/desktop(inplace of ../ for large data )
+| grep -Filter or searching data
+ls |grep/-for only folders
+ls |grep -v/ -for only files
+
+
+
+https://github.com/edurekavivekh/linux-content

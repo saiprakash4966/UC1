@@ -1,0 +1,21 @@
+Day 2
+ 
+
+grep and pipe
+
+AWK command-Used to filter or search data .similar to grep and pipe but it can do manipulation(ADD,SUB,MUL,DIV)also.
+echo -Print purpose
+$ echo good morning | awk '{print $0 }'  -  syntax
+
+$ cat data.csv |grep DEVELOPER | awk '{total+=$8 END {print total}'
+
+NR-calculate average value default.
+
+
+for ( var seatNo=1 ; seatNo <=100 ; seatNo++ ) {
+    if (seatNo <= 20) {
+        console.log("Silver Class")
+    } else {
+        console.log("Gold Class")
+    }
+}
